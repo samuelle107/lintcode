@@ -2,8 +2,9 @@ from typing import List
 
 class Solution:
     """
-    @param nums: A set of numbers.
-    @return: A list of lists. All valid subsets.
+    @param weights: A list of numbers.
+    @param maxWeight: An integer.
+    @return: A number. The max weight of plate.
     """
     def weightCapacity(self, weights: List[int], maxWeight: int) -> int:
       dp = [False for _ in range(maxWeight+ 1)]

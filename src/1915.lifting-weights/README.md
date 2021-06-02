@@ -1,4 +1,4 @@
-# 1915 - Lifting Weights
+# 1915 - [Lifting Weights](https://www.lintcode.com/problem/1915/)
 
 ## Description
 Ollie is new to the gym and is figuring out the maximum weights she can lift. The maximum capacity of the barbell is given as `maxCapacity`. There are `n` barbell plates in the gym.The weight of the `i-th` barbell piece is `weights [i]`. Now Ollie has to select as many plates as she can but the total weight of the selected plates should not exceed maxCapacity. What is the `maximum` weight of plates Ollie can add to the barbell?

@@ -1,6 +1,7 @@
 # LintCode
 
-## My solutions to LintCode problems.
+## Description 
+My solutions to LintCode problems.
 
 ## Table of Contents
 
